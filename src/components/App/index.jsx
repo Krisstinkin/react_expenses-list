@@ -12,7 +12,7 @@ function App() {
       lastName: "1,5%",
       weigth: 900,
       course: "Молочные товары",
-      price: "75",
+      price: 75,
       buttonText: "Добавлено"
     },
     {
@@ -21,7 +21,7 @@ function App() {
       lastName: "Ржаной",
       weigth: 290,
       course: "Хлебобулочные изделия",
-      price: "45",
+      price: 45,
       buttonText: "Добавить"
     },
     {
@@ -30,7 +30,7 @@ function App() {
       lastName: "Горький",
       weigth: 70,
       course: "Кондитерские товары",
-      price: "125",
+      price: 125,
       buttonText: "Добавить"
     },
     {
@@ -39,7 +39,7 @@ function App() {
       lastName: "5%",
       weigth: 200,
       course: "Молочные товары",
-      price: "70",
+      price: 70,
       buttonText: "Добавлено"
     },
     {
@@ -48,7 +48,7 @@ function App() {
       lastName: "Мароканские",
       weigth: 500,
       course: "Фрукты",
-      price: "95",
+      price: 95,
       buttonText: "Добавить"
     }
    ])

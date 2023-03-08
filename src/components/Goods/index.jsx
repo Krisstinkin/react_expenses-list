@@ -9,7 +9,7 @@ const Product = (props) => {
                 <p className="bg-indigo-200 text-indigo-800 font-semibold rounded-full px-3 py-1 shadow">{product.course}</p>
                 <p className="text-2xl font-bold mt-4">{product.firstName} {product.lastName}</p>
                 <p>Вес: {product.weigth} грамм</p>
-                <p>Стоимость: {product.price} рублей</p>
+                <p>Стоимость: {product.price} руб.</p>
             </div>
 
             <div className="flex flex-row mt-8 items-start">
